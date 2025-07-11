@@ -80,16 +80,16 @@ const amanKumar = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amankumar&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankumar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amankumar0724&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankumar0724&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amankumar&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amankumar0724&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amankumar&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amankumar0724&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -97,7 +97,7 @@ const amanKumar = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amankumar&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amankumar0724&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -147,9 +147,9 @@ journey
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/amankumar)
-[![CodeForces](https://img.shields.io/badge/-CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/amankumar)
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/amankumar)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/amankumar0724)
+[![CodeForces](https://img.shields.io/badge/-CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/amankumar0724)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/aman_k_07)
 
 </div>
 
@@ -165,10 +165,11 @@ journey
 
 <div align="center">
 
-[![Web Project 1](https://github-readme-stats.vercel.app/api/pin/?username=amankumar&repo=ecommerce-fullstack&theme=radical&hide_border=true)](https://github.com/amankumar/ecommerce-fullstack)
-[![Web Project 2](https://github-readme-stats.vercel.app/api/pin/?username=amankumar&repo=react-task-manager&theme=radical&hide_border=true)](https://github.com/amankumar/react-task-manager)
-[![Android Project](https://github-readme-stats.vercel.app/api/pin/?username=amankumar&repo=android-expense-tracker&theme=radical&hide_border=true)](https://github.com/amankumar/android-expense-tracker)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=amankumar&repo=portfolio-website&theme=radical&hide_border=true)](https://github.com/amankumar/portfolio-website)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=amankumar0724&repo=myportfolio-website&theme=radical&hide_border=true)](https://github.com/amankumar0724/myportfolio)
+[![Web Project 1](https://github-readme-stats.vercel.app/api/pin/?username=amankumar0724&repo=CureCart&theme=radical&hide_border=true)](https://github.com/amankumar0724/CureCart)
+[![Web Project 2](https://github-readme-stats.vercel.app/api/pin/?username=amankumar0724&repo=mernProject&theme=radical&hide_border=true)](https://github.com/amankumar0724/mernProject)
+[![Android Project](https://github-readme-stats.vercel.app/api/pin/?username=amankumar0724&repo=Accident_Detection_App&theme=radical&hide_border=true)](https://github.com/amankumar0724/Accident_Detection_App)
+[![Android Project](https://github-readme-stats.vercel.app/api/pin/?username=amankumar0724&repo=ChitChat&theme=radical&hide_border=true)](https://github.com/amankumar0724/ChitChat/tree/master)
 
 </div>
 
