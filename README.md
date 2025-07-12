@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Aman Kumar
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20JavaScript%20Developer;Android%20Developer%20turned%20Web%20Developer;Problem%20Solver%20%26%20Competitive%20Programmer;Open%20Source%20Contributor&font=Fira%20Code&center=true&width=550&height=45&color=36BCF7&vCenter=true&size=22&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20Developer;Android%20Developer%20turned%20Web%20Developer;Problem%20Solver%20%26%20Competitive%20Programmer;Open%20Source%20Contributor&font=Fira%20Code&center=true&width=550&height=45&color=36BCF7&vCenter=true&size=22&pause=1000" />
 </div>
 
 <div align="center">
@@ -20,9 +20,9 @@ const amankumar0724 = {
     location: "India",
     journey: "Android Developer → Web Developer",
     currentRole: "Full-Stack Web Developer",
-    code: ["JavaScript", "TypeScript", "C/C++", "Java", "Python"],
+    code: ["JavaScript", "TypeScript", "C/C++", "Java", "Python(Basic)"],
     technologies: {
-        frontend: ["React", "Redux", "Next.js", "TailwindCSS", "Material-UI", "ShadCN"],
+        frontend: ["React", "Redux", "Next.js(Basic)", "TailwindCSS", "Material-UI", "ShadCN"],
         backend: ["Node.js", "Express.js"],
         databases: ["MongoDB", "MySQL", "Firebase", "Appwrite"],
         mobile: ["Android Development (Previous)"],
@@ -45,7 +45,7 @@ const amankumar0724 = {
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+#![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
