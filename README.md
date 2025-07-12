@@ -143,6 +143,21 @@ journey
 
 ---
 
+## 🎨 Featured Projects
+
+<div align="center">
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=amankumar0724&repo=myportfolio&theme=radical&hide_border=true)](https://github.com/amankumar0724/myportfolio)
+[![Web Project 1](https://github-readme-stats.vercel.app/api/pin/?username=amankumar0724&repo=CureCart&theme=radical&hide_border=true)](https://github.com/amankumar0724/CureCart)
+[![Web Project 2](https://github-readme-stats.vercel.app/api/pin/?username=amankumar0724&repo=mernProject&theme=radical&hide_border=true)](https://github.com/amankumar0724/mernProject)
+[![Web Project 3](https://github-readme-stats.vercel.app/api/pin/?username=amankumar0724&repo=SkillView-Next-Project&theme=radical&hide_border=true)](https://github.com/amankumar0724/SkillView-Next-Project)
+[![Android Project](https://github-readme-stats.vercel.app/api/pin/?username=amankumar0724&repo=Accident_Detection_App&theme=radical&hide_border=true)](https://github.com/amankumar0724/Accident_Detection_App)
+[![Android Project](https://github-readme-stats.vercel.app/api/pin/?username=amankumar0724&repo=ChitChat&theme=radical&hide_border=true)](https://github.com/amankumar0724/ChitChat/tree/master)
+
+</div>
+
+---
+
 ## 💻 Competitive Programming
 
 <div align="center">
@@ -158,21 +173,6 @@ journey
 - 🧠 Strong foundation in Data Structures & Algorithms
 - 💡 Love solving complex algorithmic challenges
 - 🎯 Focus on optimizing time and space complexity
-
----
-
-## 🎨 Featured Projects
-
-<div align="center">
-
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=amankumar0724&repo=myportfolio&theme=radical&hide_border=true)](https://github.com/amankumar0724/myportfolio)
-[![Web Project 1](https://github-readme-stats.vercel.app/api/pin/?username=amankumar0724&repo=CureCart&theme=radical&hide_border=true)](https://github.com/amankumar0724/CureCart)
-[![Web Project 2](https://github-readme-stats.vercel.app/api/pin/?username=amankumar0724&repo=mernProject&theme=radical&hide_border=true)](https://github.com/amankumar0724/mernProject)
-[![Web Project 3](https://github-readme-stats.vercel.app/api/pin/?username=amankumar0724&repo=SkillView-Next-Project&theme=radical&hide_border=true)](https://github.com/amankumar0724/SkillView-Next-Project)
-[![Android Project](https://github-readme-stats.vercel.app/api/pin/?username=amankumar0724&repo=Accident_Detection_App&theme=radical&hide_border=true)](https://github.com/amankumar0724/Accident_Detection_App)
-[![Android Project](https://github-readme-stats.vercel.app/api/pin/?username=amankumar0724&repo=ChitChat&theme=radical&hide_border=true)](https://github.com/amankumar0724/ChitChat/tree/master)
-
-</div>
 
 ---
 <!--
@@ -194,7 +194,7 @@ Python       ██████████░░░░░░░░░░░░�
 </div>
 -->
 ---
-
+<!--
 ## 🚀 From Android to Web: My Transition Story
 
 <div align="center">
@@ -207,7 +207,7 @@ Python       ██████████░░░░░░░░░░░░�
 | **Current Focus** | Next.js, TypeScript, Advanced React | Performance optimization, scalability |
 
 </div>
-
+-->
 ---
 
 ## 🤝 Let's Connect
