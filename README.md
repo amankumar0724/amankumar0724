@@ -93,13 +93,13 @@ const amankumar0724 = {
 </div>
 
 ---
-
+<!--
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=amankumar0724&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
-
+-->
 ---
 
 ## 🎯 My Journey & Current Focus
