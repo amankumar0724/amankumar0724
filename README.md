@@ -44,6 +44,7 @@ const amankumar0724 = {
 [![Web Project 1](https://github-readme-stats.vercel.app/api/pin/?username=amankumar0724&repo=CureCart&theme=radical&hide_border=true)](https://github.com/amankumar0724/CureCart)
 [![Web Project 2](https://github-readme-stats.vercel.app/api/pin/?username=amankumar0724&repo=mernProject&theme=radical&hide_border=true)](https://github.com/amankumar0724/mernProject)
 [![Web Project 3](https://github-readme-stats.vercel.app/api/pin/?username=amankumar0724&repo=SkillView-Next-Project&theme=radical&hide_border=true)](https://github.com/amankumar0724/SkillView-Next-Project)
+[![Web Project 4](https://github-readme-stats.vercel.app/api/pin/?username=amankumar0724&repo=Direction---Clinic-Management-System&theme=radical&hide_border=true)](https://github.com/amankumar0724/Direction---Clinic-Management-System)
 [![Android Project](https://github-readme-stats.vercel.app/api/pin/?username=amankumar0724&repo=Accident_Detection_App&theme=radical&hide_border=true)](https://github.com/amankumar0724/Accident_Detection_App)
 [![Android Project](https://github-readme-stats.vercel.app/api/pin/?username=amankumar0724&repo=ChitChat&theme=radical&hide_border=true)](https://github.com/amankumar0724/ChitChat/tree/master)
 
@@ -193,7 +194,6 @@ Python       ██████████░░░░░░░░░░░░�
 
 </div>
 -->
----
 <!--
 ## 🚀 From Android to Web: My Transition Story
 
@@ -208,7 +208,6 @@ Python       ██████████░░░░░░░░░░░░�
 
 </div>
 -->
----
 
 ## 🤝 Let's Connect
 
