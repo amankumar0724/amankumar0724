@@ -10,8 +10,6 @@
   <img src="https://img.shields.io/badge/Focus-Web%20Development-brightgreen" alt="Focus" />
 </div>
 
-[![Portfolio](https://amankumar0724.vercel.app/)]
-
 ---
 
 ## 🚀 About Me
