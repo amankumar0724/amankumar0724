@@ -41,10 +41,11 @@ const amankumar0724 = {
 <div align="center">
 
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=amankumar0724&repo=myportfolio&theme=radical&hide_border=true)](https://github.com/amankumar0724/myportfolio)
-[![Web Project 1](https://github-readme-stats.vercel.app/api/pin/?username=amankumar0724&repo=CureCart&theme=radical&hide_border=true)](https://github.com/amankumar0724/CureCart)
-[![Web Project 2](https://github-readme-stats.vercel.app/api/pin/?username=amankumar0724&repo=mernProject&theme=radical&hide_border=true)](https://github.com/amankumar0724/mernProject)
-[![Web Project 3](https://github-readme-stats.vercel.app/api/pin/?username=amankumar0724&repo=SkillView-Next-Project&theme=radical&hide_border=true)](https://github.com/amankumar0724/SkillView-Next-Project)
-[![Web Project 4](https://github-readme-stats.vercel.app/api/pin/?username=amankumar0724&repo=Direction---Clinic-Management-System&theme=radical&hide_border=true)](https://github.com/amankumar0724/Direction---Clinic-Management-System)
+[![Web Project 1](https://github-readme-stats.vercel.app/api/pin/?username=amankumar0724&repo=CureCart&theme=radical&hide_border=true)](https://github.com/amankumar0724/CodeSync/tree/master)
+[![Web Project 2](https://github-readme-stats.vercel.app/api/pin/?username=amankumar0724&repo=CureCart&theme=radical&hide_border=true)](https://github.com/amankumar0724/CureCart)
+[![Web Project 3](https://github-readme-stats.vercel.app/api/pin/?username=amankumar0724&repo=mernProject&theme=radical&hide_border=true)](https://github.com/amankumar0724/mernProject)
+[![Web Project 4](https://github-readme-stats.vercel.app/api/pin/?username=amankumar0724&repo=SkillView-Next-Project&theme=radical&hide_border=true)](https://github.com/amankumar0724/SkillView-Next-Project)
+[![Web Project 5](https://github-readme-stats.vercel.app/api/pin/?username=amankumar0724&repo=Direction---Clinic-Management-System&theme=radical&hide_border=true)](https://github.com/amankumar0724/Direction---Clinic-Management-System)
 [![Networking and ML Project](https://github-readme-stats.vercel.app/api/pin/?username=amankumar0724&repo=MiniProject---OS-Detection&theme=radical&hide_border=true)](https://github.com/amankumar0724/MiniProject---OS-Detection)
 
 [![Android Project](https://github-readme-stats.vercel.app/api/pin/?username=amankumar0724&repo=Accident_Detection_App&theme=radical&hide_border=true)](https://github.com/amankumar0724/Accident_Detection_App)
